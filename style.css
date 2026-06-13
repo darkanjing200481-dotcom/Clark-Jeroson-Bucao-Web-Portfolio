@@ -256,4 +256,19 @@ justify-content:center;
 max-width:280px;
 }
 
+  .gallery p{
+text-align:center;
+margin-top:10px;
+font-weight:600;
+}
+
+#contact a{
+color:#38bdf8;
+text-decoration:none;
+}
+
+#contact a:hover{
+text-decoration:underline;
+}
+  
 }
